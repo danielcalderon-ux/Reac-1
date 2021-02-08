@@ -2,9 +2,9 @@ import React from "react";
 
 export function Footer() {
 	return (
-		<footer class="text-muted" className="navbar navbar-dark bg-dark">
-			<div class="container">
-				<p class="float-right">
+		<footer className="navbar navbar-dark bg-dark text-muted">
+			<div className="container">
+				<p className="float-right">
 					<a href="#">Back to top</a>
 				</p>
 				<p>
